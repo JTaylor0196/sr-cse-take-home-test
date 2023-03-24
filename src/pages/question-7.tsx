@@ -19,7 +19,7 @@ export default function Home() {
       <main className={styles.main}>
         <div className={pageStyles.description}>
           <h1>How could we improve or alter this familiarization exercise?</h1>
-          <p></p>
+          <p>In a job like this, technical skills are very important to have, but a suggestion I have for this test would be to add at least one or two personal questions to try and understand the candidate as a person more rather than a potential employee.<br/><br/>I've worked with many team members who could solve any problem you threw at them, but they were ultimately disliked by the team for consistently being more "I" focused, stingy with information, and self praising. I realize that something such as that may be difficult to tell over a written exam, but I do believe there'd be value that could help determine whether or not they'd be a good fit for the position.</p>
         </div>
 
         <div className={pageStyles.center}>

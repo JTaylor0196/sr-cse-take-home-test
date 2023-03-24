@@ -19,7 +19,7 @@ export default function Home() {
       <main className={styles.main}>
         <div className={pageStyles.description}>
           <h1>How would you compare Next.js with another framework? Feel free to compare with a framework of your choice.</h1>
-          <p></p>
+          <p>Jekyll is another framework that I have experience with, and I believe both Next.js and Jekyll are useful in their own ways.<br/><br/>Jekyll is geared towards static. Your basic HTML, CSS, Markdown, and Liquid are used to create static sites. That's it. There's no database utilization, so there's no need to provide management for that. But even in its simplicity, Jekyll allows custom page layouts and use of componenets to give your website the option for customization. It's a powerful tool if someone is seeking simplicity.<br/><br/>In comparison, Next.js, as I think of it, is simply more robust. The framework still offers the option of static, such as Jekyll, but it goes a step further, such as the abilities offered with ISR. Next.js is also built on React, so it, by default, offers more functionality and dynamic abilities than Jekyll out of the gate. Using Next.js allows developers to work quick and fast to build Javascript based applications (and deploy them just as quickly using Vercel!)</p>
         </div>
 
         <div className={pageStyles.center}>
