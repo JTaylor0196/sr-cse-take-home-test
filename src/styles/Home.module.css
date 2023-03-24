@@ -27,8 +27,8 @@
 
 .description p {
   position: relative;
-  margin: 0;
   padding: 1rem;
+  margin: 1rem 0;
   background-color: rgba(var(--callout-rgb), 0.5);
   border: 1px solid rgba(var(--callout-border-rgb), 0.3);
   border-radius: var(--border-radius);
